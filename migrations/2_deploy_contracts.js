@@ -1,9 +1,9 @@
 /* global artifacts */
 
-const ShrimpCoin = artifacts.require('ShrimpCoin')
+const NFTExchange = artifacts.require('NFTExchange')
 
 module.exports = function (deployer) {
   deployer.deploy(
-    ShrimpCoin
+    NFTExchange
   )
 }
