@@ -24,7 +24,7 @@ $ npm run compile
 
 ### Deploy
 
-Deploy contracts to RPC provider at port `8546`.
+Deploy contracts to RPC provider at port `8545`.
 
 ```
 $ npm run testrpc
