@@ -1,4 +1,4 @@
 module.exports = {
-  port: 8546,
+  port: 8545,
   copyPackages: ['zeppelin-solidity']
 }
